@@ -25,7 +25,3 @@ This portfolio documents my learning as I study CSE 110: Principles of Programmi
 Each original practice project will include an explanation of its purpose, the code, instructions for running it, and examples of the results.
 
 I will also document what I learned, challenges I encountered, and how I checked that the program worked.
-
-## Progress
-
-This portfolio is being prepared for my programming studies. Original projects and learning notes will be added as I progress.
