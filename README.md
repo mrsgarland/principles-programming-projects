@@ -2,7 +2,7 @@
 
 Welcome! I’m Kristina Garland. My background is in customer service and account resolution, and I enjoy helping people and using technology to solve problems.
 
-This portfolio documents my learning as I study CSE 110: Principles of Programming through Arizona State University Universal Learner Courses.
+This portfolio documents my learning as I make progress in my studies using personal projects and participating in college level courses, such as CSE 110: Principles of Programming through Arizona State University Universal Learner Courses.
 
 ## My Goals
 
